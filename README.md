@@ -140,9 +140,4 @@ To test the API, you can use Postman or any other API testing tool. Refer to the
 - Integrate additional nutrition databases for comprehensive data.
 - Enhance logging and monitoring features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to modify any sections to fit your project better!
